@@ -1,6 +1,6 @@
 baseURL = 'https://suejon.github.io/'
 languageCode = 'en-us'
-# title = 'My New Hugo Site'
+title = "Jono Sue"
 theme = "blowfish"
 
 [author]
@@ -15,11 +15,11 @@ links = [
 
 [menu]
     [[menu.main]]
-        name = "Home"
-        url = "/"
-        weight = 1
-    [[menu.main]]
         name = "About"
         url = "/about/"
+        weight = 1
+    [[menu.main]]
+        name = "Stuff I Made"
+        url = "/posts/"
         weight = 2
     
