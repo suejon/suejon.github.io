@@ -17,10 +17,10 @@ Time is money, so i believe automation plays a huge role in delivering objective
 {{< chart >}}
 type: 'doughnut',
 data: {
-  labels: ['TypeScript/JavaScript', 'Rust', 'Java', 'Python', 'SQL'],
+  labels: ['TypeScript/JavaScript', 'Rust', 'Java', 'Python', 'SQL', 'Swift', '.NET Core'],
   datasets: [{
     label: '# years of experience',
-    data: [3, 1, 5, 4, 5],
+    data: [3, 1, 5, 4, 5, 1, 1],
   }]
 }
 {{< /chart >}}
