@@ -6,7 +6,7 @@ draft: false
 
 
 ## Summary
-I am a experienced Full-Stack Engineer with a comprehensive background in developing and optimizing performance-critical applications for distributed systems. Having worked on infrastructure management, application development, automation, and monitoring and observability throughout the software delivery lifecycle, I consistently strive to design and implement robust and scalable software solutions with practical decision making and following leading practices.
+I am a experienced Full-Stack Engineer with a comprehensive background in developing and optimizing performance-critical enterprise applications for distributed systems. Having worked on infrastructure management, application development, automation, and monitoring and observability throughout the software delivery lifecycle, I consistently strive to design and implement robust and scalable software solutions with practical decision making and following leading practices.
 
 As a big advocate for collaboration and communication, I believe teamwork and a solid team culture is key to success and future growth. Having lead both small and large scale teams, I have had the chance to contribute to evolving team culture, providing a safe environment for open discussion and communication.
 
