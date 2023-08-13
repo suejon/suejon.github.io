@@ -47,16 +47,21 @@ data: {
     'Openshift',
     'Github Actions',
     'GitLab CI/CD',
-    'Jenkins'
+    'Jenkins',
+    'Postgres',
+    'MySQL',
+    'SqlServer',
+    'Oracle',
+    'Elastic Stack'
      ],
   datasets: [
     {
         label: '# years of experience',
-        data: [3, 2, 1, 0, 1, 2, 4, 3, 2, 6, 3, 2, 3, 2, 3, 2, 3, 2],
+        data: [3, 2, 1, 0, 1, 2, 4, 3, 2, 6, 3, 2, 3, 2, 3, 2, 3, 2, 4, 2, 1, 1, 2],
     },
     {
         label: 'Interest',
-        data: [4, 5, 1, 5, 4, 3, 3, 3, 5, 4, 3, 3, 4, 4, 3, 4, 4, 1],
+        data: [4, 5, 1, 5, 4, 3, 3, 3, 5, 4, 3, 3, 4, 4, 3, 4, 4, 1, 3, 3, 0, 0, 4],
     },
     ]
 }
