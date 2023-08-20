@@ -6,7 +6,7 @@ theme = "blowfish"
 [author]
 name = "Jono Sue"
 image = "img/author.jpg"
-headline = "Full Stack Engineer and Food Eater"
+headline = "Full Stack Engineer | Problem Solver"
 links = [
   { github = "https://github.com/suejon" },
   { linkedin = "https://www.linkedin.com/in/jonosue/" },
@@ -19,7 +19,7 @@ links = [
         url = "/about/"
         weight = 1
     [[menu.main]]
-        name = "Stuff I Made"
+        name = "Creations"
         url = "/posts/"
         weight = 2
     
