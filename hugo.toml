@@ -6,7 +6,7 @@ theme = "blowfish"
 [author]
 name = "Jono Sue"
 image = "img/author.jpg"
-headline = "Full Stack Engineer | Problem Solver"
+headline = "Problem Solver | Foodie | Living in Korea"
 links = [
   { github = "https://github.com/suejon" },
   { linkedin = "https://www.linkedin.com/in/jonosue/" },
