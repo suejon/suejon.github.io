@@ -12,6 +12,30 @@ Having worked in both small startups and larger organisations, I have experience
 
 My commitment to harnessing technology's potential drives me to design impactful and pragmatic solutions. Proficient across technology's spectrum, from application delivery and automation to system infrastructure, data processing, and visualization, I create holistic, sustainable solutions.
 
+{{< typeit 
+  tag=h2
+  lifeLike=true
+>}}
+The Journey So Far..
+{{< /typeit >}}
+{{< timeline >}}
+
+{{< timelineItem header="Full Stack Software Engineer" badge="June 2022 - now" subheader="Picky | Korea" >}}
+{{< /timelineItem >}}
+
+
+{{< timelineItem header="Senior Software Consultant" badge="April 2018" subheader="SECTION6 | New Zealand" >}}
+{{< /timelineItem >}}
+
+{{< timelineItem header="Mobile Developer" badge="March 2017"  subheader="App Labs | New Zealand">}}
+{{< /timelineItem >}}
+
+{{< timelineItem header="Computer Lab Assistant" badge="March 2016"  subheader="University of Otago | New Zealand">}}
+{{< /timelineItem >}}
+
+{{< /timeline >}}
+
+
 ## Programming Languages
 
 {{< chart >}}
@@ -66,3 +90,11 @@ data: {
     ]
 }
 {{< /chart >}}
+
+
+## Languages
+
+- English {{< badge >}} Native {{< /badge >}}
+- Cantonese {{< badge >}} Native {{< /badge >}}
+- Mandarin {{< badge >}} Interest {{< /badge >}}
+- Korean {{< badge >}} Interest {{< /badge >}}
