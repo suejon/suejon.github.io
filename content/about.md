@@ -6,11 +6,11 @@ draft: false
 
 
 ## Summary
-I am a experienced Full-Stack Engineer with a comprehensive background in developing and optimizing performance-critical enterprise applications for distributed systems. Having worked on infrastructure management, application development, automation, and monitoring and observability throughout the software delivery lifecycle, I consistently strive to design and implement robust and scalable software solutions with practical decision making and following leading practices.
+I'm a dynamic Full Stack Software Engineer with a proven ability to innovate solutions for contemporary business challenges and small and large scale. My journey through technology has equipped me with a comprehensive problem-solving skill set which is relevant in many areas across the software development lifecycle.
 
-As a big advocate for collaboration and communication, I believe teamwork and a solid team culture is key to success and future growth. Having lead both small and large scale teams, I have had the chance to contribute to evolving team culture, providing a safe environment for open discussion and communication.
+Having worked in both small startups and larger organisations, I have experienced a variety of different challenges and grown a lot through the process, not only with regards to software development, but communication and teamwork.
 
-Time is money, so i believe automation plays a huge role in delivering objectives efficiently. With several years of experience working in DevOps, I have established and contributed to core CICD automations that have saved countless hours of time which would have been spent manually running tasks or debugging as a result of human errors.
+My commitment to harnessing technology's potential drives me to design impactful and pragmatic solutions. Proficient across technology's spectrum, from application delivery and automation to system infrastructure, data processing, and visualization, I create holistic, sustainable solutions.
 
 ## Programming Languages
 
