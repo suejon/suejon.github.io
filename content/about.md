@@ -41,10 +41,10 @@ The Journey So Far..
 {{< chart >}}
 type: 'doughnut',
 data: {
-  labels: ['TypeScript/JavaScript', 'Rust', 'Java', 'Python', 'SQL', 'Swift', '.NET Core'],
+  labels: ['TypeScript/JavaScript', 'Java', 'Python', 'SQL', 'Swift', '.NET Core'],
   datasets: [{
     label: '# years of experience',
-    data: [3, 1, 5, 4, 5, 1, 1],
+    data: [3, 5, 4, 5, 1, 1],
   }]
 }
 {{< /chart >}}
