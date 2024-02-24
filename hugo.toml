@@ -6,7 +6,7 @@ theme = "blowfish"
 [author]
 name = "Jono Sue"
 image = "img/author.jpg"
-headline = "Driven by Curiosity | Living in Korea"
+headline = "Driven by Curiosity | Software Engineer | NZ"
 links = [
   { github = "https://github.com/suejon" },
   { linkedin = "https://www.linkedin.com/in/jonosue/" },

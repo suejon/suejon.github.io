@@ -12,7 +12,7 @@ Having worked in both small startups and larger organisations, I have experience
 
 My commitment to harnessing technology's potential drives me to design impactful and pragmatic solutions. Proficient across technology's spectrum, from application delivery and automation to system infrastructure, data processing, and visualization, I create holistic, sustainable solutions.
 
-{{< typeit 
+{{< typeit
   tag=h2
   lifeLike=true
 >}}
@@ -20,7 +20,7 @@ The Journey So Far..
 {{< /typeit >}}
 {{< timeline >}}
 
-{{< timelineItem header="Full Stack Software Engineer" badge="June 2022 - now" subheader="Picky | Korea" >}}
+{{< timelineItem header="Full Stack Software Engineer" badge="June 2022 - September 2023" subheader="Picky | Korea" >}}
 {{< /timelineItem >}}
 
 
@@ -41,24 +41,22 @@ The Journey So Far..
 {{< chart >}}
 type: 'doughnut',
 data: {
-  labels: ['TypeScript/JavaScript', 'Java', 'Python', 'SQL', 'Swift', '.NET Core'],
+  labels: ['TypeScript/JavaScript', 'Java', 'Python', 'SQL', '.NET Core'],
   datasets: [{
     label: '# years of experience',
-    data: [3, 5, 4, 5, 1, 1],
+    data: [3, 5, 4, 5, 1],
   }]
 }
 {{< /chart >}}
 
 ## Tools and Frameworks
 {{< chart >}}
-type: 'radar',
+type: 'doughnut',
 data: {
   labels: [
-    'React', 
+    'React',
     'NextJS',
-    'Angular',
-    'SolidJS',
-    'Tokio',
+    'AngularJS',
     'FastAPI',
     'Spring & Spring-Boot',
     'Camel',
@@ -74,18 +72,12 @@ data: {
     'Jenkins',
     'Postgres',
     'MySQL',
-    'SqlServer',
-    'Oracle',
     'Elastic Stack'
      ],
   datasets: [
     {
         label: '# years of experience',
-        data: [3, 2, 1, 0, 1, 2, 4, 3, 2, 6, 3, 2, 3, 2, 3, 2, 3, 2, 4, 2, 1, 1, 2],
-    },
-    {
-        label: 'Interest',
-        data: [4, 5, 1, 5, 4, 3, 3, 3, 5, 4, 3, 3, 4, 4, 3, 4, 4, 1, 3, 3, 0, 0, 4],
+        data: [3, 2, 1, 2, 4, 3, 2, 5, 3, 2, 3, 2, 3, 2, 3, 2, 4, 2, 2],
     },
     ]
 }
